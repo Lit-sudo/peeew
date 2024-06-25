@@ -1,0 +1,2 @@
+Random 
+DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/0ATx3LY4dsSEno2fAka_6BjfyeH95hR51fj83lKOG4xBG9SkbFKh3B7v3lBR9400o5LaF9Q" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)
